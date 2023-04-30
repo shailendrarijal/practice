@@ -82,9 +82,11 @@ gap: 4rem;
     .group1, .group2 {
         display: flex;
         flex-direction: column;
-        gap:5rem;
+        gap: 5rem;       
         
-    } 
+        
+    }  
+    
     .group3 {
         max-width: 700px;
         width: 100%;
@@ -158,7 +160,7 @@ gap: 4rem;
      }
      /* education */
      .edu_item {
-        margin: 2rem;
+        margin-top: 2rem;
         
         
      }
